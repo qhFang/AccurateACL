@@ -1,0 +1,10 @@
+scene_names: I37#I41#I79#I105#I138#I150#I175#R44#U02#U10#Y13#Y22#C03#D01#I125
+seq_names: seq-50cm-60deg#seq-50cm-60deg#seq-50cm-60deg#seq-50cm-60deg#seq-50cm-60deg#seq-50cm-60deg#seq-50cm-60deg#seq-50cm-60deg#seq-50cm-60deg#seq-50cm-60deg#seq-50cm-60deg#seq-50cm-60deg#seq-50cm-60deg#seq-50cm-60deg#seq-50cm-60deg
+dynamic: False
+noise_std: 5
+step_size: 20
+angle_size: 30
+success_reward: 0
+color_jitter: True
+n_hyp: 4
+wocollide: True

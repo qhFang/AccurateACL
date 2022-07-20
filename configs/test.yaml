@@ -1,0 +1,8 @@
+dynamic: False
+noise_std: 5
+step_size: 20
+angle_size: 30
+success_reward: 0
+color_jitter: True
+n_hyp: 4
+wocollide: True

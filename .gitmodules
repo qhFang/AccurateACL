@@ -1,0 +1,6 @@
+[submodule "extensions/rlpyt"]
+	path = extensions/rlpyt
+	url = https://github.com/yd-yin/rlpyt.git
+[submodule "extensions/spaint"]
+	path = extensions/spaint
+	url = https://github.com/yd-yin/spaint.git

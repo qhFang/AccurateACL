@@ -1,7 +1,9 @@
 # [ECCV 2022] Towards Accurate Active Camera Localization
 
+*Qihang Fang, *[Yingda Yin](https://yd-yin.github.io/), †[Qingnan Fan](https://fqnchina.github.io/), [Fei Xia](https://fxia22.github.io/), [Siyan Dong](https://scholar.google.com/citations?user=vtZMhssAAAAJ&hl=en/), Sheng Wang, [Jue Wang](https://juewang725.github.io/), [Leonidas Guibas](http://geometry.stanford.edu/member/guibas/index.html), †[Baoquan Chen](http://cfcs.pku.edu.cn/baoquan/)
 
-This is the implementation of ECCV 2022 paper "Towards Accurate Active Camera Localization".
+*Equal contribution; ordered alphabetically | †Corresponding authors | [Video](https://youtu.be/pDMoZ6pjkkQ) | [arXiv](https://arxiv.org/abs/2012.04263)
+
 
 <p align="center">
 <img src="./images/turn_and_long.gif" alt="demonstration" width="85%">
@@ -10,10 +12,6 @@ This is the implementation of ECCV 2022 paper "Towards Accurate Active Camera Lo
 <img src="./images/4sequences.gif" alt="demonstration" width="100%">
 </p>
 
-<p align="center">
-<a href='https://arxiv.org/abs/2012.04263'>[arXiv]</a>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
-<a href='https://youtu.be/pDMoZ6pjkkQ'>[Video]</a>
-</p>
 
 
 ## Installation

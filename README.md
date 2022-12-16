@@ -126,7 +126,7 @@ The ACL-Synthetic and ACL-Real datasets can be downloaded <a href="https://drive
 
 ### ACL-Origin
 <p>
-We further collect 120 high-quality indoor scenes, which will be one of the largest indoor scene datasets. For each scene, we provide a .max format file which contains 3D models for all the furnitures with textures, and lighting effects, shading, and other 3D design elements.
+We further collect 120 high-quality indoor scenes. For each scene, we provide a .max format file which contains 3D models for all the furnitures with textures, and lighting effects, shading, and other 3D design elements.
 
 <strong>Panorama example of ACL-Origin:</strong>
 <div align="center"><img src="./images/panorama.jpg" alt="demonstration" width="100%"></div>

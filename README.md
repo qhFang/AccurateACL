@@ -111,9 +111,34 @@ docker pull qihfang/spaint_python3.6.8_cuda10.0_torch1.9.0_spaint:v1.0
 Please specify the paths in `global_setting.py` to your paths.
 
 ## Dataset
+### ACL-Synthetic and ACL-Real
 <p>
+In the paper, we evaluate our algorithm on the ACL-Synthetic and ACL-Real datasets.
+
+<strong>Some virtualizations of ACL-Synthetic dataset</strong>
+<div align="center"><img src="./images/ACL-Synthetic.jpg" alt="demonstration" width="100%"></div>
+
+<strong>Some virtualizations of ACL-Real dataset</strong>
+<div align="center"><img src="./images/ACL-Real.jpg" alt="demonstration" width="100%"></div>
+
 The ACL-Synthetic and ACL-Real datasets can be downloaded <a href="https://drive.google.com/file/d/1OIKUeQDfdNuxwyTlXP3KpJyk4p-Nsyjn/view?usp=sharing">here</a>.
 </p>
+
+### ACL-Origin
+<p>
+We further collect 120 high-quality indoor scenes, which will be one of the largest indoor scene datasets. For each scene, we provide a .max format file which contains 3D models for all the furnitures with textures, and lighting effects, shading, and other 3D design elements.
+
+<strong>Panorama example of ACL-Origin:</strong>
+<div align="center"><img src="./images/panorama.jpg" alt="demonstration" width="100%"></div>
+
+<strong>Rendering example of ACL-Origin:</strong>
+<div align="center"><video width="640" height="368" controls autoplay>
+  <source src="./video/ACL-Origin.mp4" type="video/mp4">
+</video></div>
+The ACL-Origin datasets can be downloaded <a href="https://1drv.ms/u/s!Al4DaYqDq4-33STwLq83BAwxM6j2?e=m29Glv">here</a>.
+</p>
+
+
 
 ## Usage
 ### Train

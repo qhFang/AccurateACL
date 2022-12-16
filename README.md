@@ -132,9 +132,12 @@ We further collect 120 high-quality indoor scenes, which will be one of the larg
 <div align="center"><img src="./images/panorama.jpg" alt="demonstration" width="100%"></div>
 
 <strong>Rendering example of ACL-Origin:</strong>
-<div align="center"><video width="640" height="368" controls autoplay>
-  <source src="./video/ACL-Origin.mp4" type="video/mp4">
-</video></div>
+
+
+https://user-images.githubusercontent.com/25958029/208108052-d946b8d2-b430-40b1-a381-11ddda755378.mp4
+
+
+
 The ACL-Origin datasets can be downloaded <a href="https://1drv.ms/u/s!Al4DaYqDq4-33STwLq83BAwxM6j2?e=m29Glv">here</a>.
 </p>
 

@@ -16,7 +16,7 @@
 
 ## Installation
 ```bash
-git clone AccurateACL --recursive
+git clone https://github.com/qhFang/AccurateACL.git --recursive
 ```
 ### Requirements
 ```bash
